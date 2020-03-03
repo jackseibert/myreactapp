@@ -17,7 +17,7 @@ function App() {
         href = "https://reactjs.org"
         target = "_blank"
         rel = "noopener noreferrer">
-        Hello World! 
+        Hello World 2! 
         </a> 
         </header>
         
